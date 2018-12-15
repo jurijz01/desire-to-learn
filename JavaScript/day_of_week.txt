@@ -1,8 +1,0 @@
-function day_of_week(day) {
-    switch(day) {
-        case 1: return "Monday";
-        case 2: return "Tuesday";
-        case 3: return "Wednesday";
-        default: return "Invalid day of week";
-    }
-}
